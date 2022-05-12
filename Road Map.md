@@ -53,8 +53,11 @@ Some pre-research:
 * Hacking challenges with certain technical limitations;
 #### The development and testing of the core functions of the Dante protocol stack:
 * User-defined routers with special functions: verifiable off-chain storage service for multi-chains;
+* Special SQoS item relates to privacy transaction(analogous to SSL/TLS in internet protocol) on multi-chains;
 #### Ecosystem fit:
 * Add some special public chains, for instance, Flow(the resource-oriented public chain).
+#### Popular Application fit:
+* Omnichain privacy transaction; 
 #### SDK:
 * An advanced S.C SDK for more convenient contract invocation between Near and some other chains.
 * SQoS demand setting and judge interface.
