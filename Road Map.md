@@ -3,7 +3,7 @@
 ## Until now
 
 The basic functions of Dante protocol stack are almost completed and are under testing and optimization. Some demos and early-stage SDK are as below:
-* Multi-chain communication and smart contract invocation [Demo](https://github.com/dantenetwork/cross-chain-demo/tree/demo-video ) based on Dante protocol stack.
+* Multi-chain communication and smart contract invocation [Demo](https://github.com/dantenetwork/cross-chain-demo/tree/demo-video ) based on Dante protocol stack(support Avalanche, Near, and some other EVM chains).
 * An early stage smart contract [SDK](https://github.com/dantenetwork/solidity-contract-template/tree/develop ) in solidity version.
 * A [demo](https://github.com/dantenetwork/Routers-Evaluation-Demo ) for routers evaluation deployed on Near testnet.
 * A SWAP  [demo](https://github.com/dantenetwork/Demo-Swap/tree/dev ) deployed on rinkeby and BNB(it’s under optimizing) based on Dante protocol stack.
