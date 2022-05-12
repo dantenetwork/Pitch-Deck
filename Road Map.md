@@ -48,7 +48,7 @@ Some pre-research:
 #### The development and testing of the core functions of the Dante protocol stack:
 * User-defined routers with special functions: verifiable off-chain storage service for multi-chains;
 #### Ecosystem fit:
-* Some special public chains, for instance, Flow(the resource-oriented public chain).
+* Add some special public chains, for instance, Flow(the resource-oriented public chain).
 #### SDK:
 * An advanced S.C SDK for more convenient contract invocation between Near and some other chains.
 * SQoS demand setting and judge interface.
