@@ -13,6 +13,8 @@ Some pre-research:
 * Minimum viable product of [Storage rollups](https://github.com/dantenetwork/hackathon ).
 
 ## 2022.Q2
+### Core Target
+* Product concept demonstration and proof-of-principle, core component and algorithm development.
 ### Technology
 #### The development and testing of the mainly functions of the Dante protocol stack on multi-chains: 
 * Complete the development and testing of the core algorithms of the `Consensus Verification Layer`, including Message verification, and Routers evaluation.
@@ -27,6 +29,8 @@ Some pre-research:
 * A basic SC(smart contract) SDK for developers to try some basic functions of the protocol stack with which developers can build multi-chain DApps.
 
 ## 2022.Q3
+### Core Target
+* Improve the product functions to be able to support the operation of the Testnet, provide a certain degree of security and complete multi-chain collaboration functions, support the deployment and use of partner applications, and strive to enter the forefront of the track.
 ### Technology
 #### Launch the Testnet deployed on multi-chains：
 * Technical optimization and the security improvements of the protocol stack during the test network operation.
@@ -41,6 +45,8 @@ Some pre-research:
 * SC SDK(support Avalanche, Polkadot, Near, Flow, and some other EVM chains) helps developers build Omnichain-contracts more conveniently. Contracts built with the SDK can communicate and cooperate with contracts deployed on several different chains.
 
 ## 2022.Q4
+### Core Target
+* Focus on ensuring the security of the product, gradually expanding the scale of business cooperation, supporting the deployment and use of more applications, and building a differentiated experience at the application level.
 ### Technology
 #### Hold some technical activities on the Testnet:
 * Developing multi-chain DApps on testnet;
@@ -55,6 +61,8 @@ Some pre-research:
 * Development of the UDR(User-Defined Routers’) SDK.
 
 ## 2023.Q1
+### Core Target
+* Gradually improve the functional performance of the product, enhance the user experience, and prepare for the launch of the main website.
 ### Technology
 #### Testnet activities:
 * Complete the test of user defined routers with special service(like storage);
@@ -68,6 +76,8 @@ Some pre-research:
 * A basic version of the UDR SDK.
 
 ## The rest of 2023
+### Core Target
+* Launch the Mainnet.
 ### Technology
 * Security and efficiency optimization for the protocol stack through the feedback from testnet.
 * Stable functions such as core algorithms and advanced SQoS items were implemented and tested on more chains.
