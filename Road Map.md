@@ -25,7 +25,7 @@ Some pre-research:
 * Public chains:  Near, Avalanche, BNB.
 #### Popular Application fit:
 * An Omnichain NFT application demo, which is deployed on Avalanche, Near, Flow, and can be shown and visited by Opensee(Rinkeby).
-#### SDK for multi-chain DApp development:
+#### SDK:
 * A basic SC(smart contract) SDK for developers to try some basic functions of the protocol stack with which developers can build multi-chain DApps.
 
 ## 2022.Q3
@@ -41,7 +41,7 @@ Some pre-research:
 * Public chains:  Add Polkadot.
 #### Popular Application fit:
 * A SWAP Demo, with which users can exchange Assets(FT/NFT) on Avalanche with some other chains.
-#### SDK for multi-chain DApp development on Near:
+#### SDK:
 * SC SDK(support Avalanche, Polkadot, Near, Flow, and some other EVM chains) helps developers build Omnichain-contracts more conveniently. Contracts built with the SDK can communicate and cooperate with contracts deployed on several different chains.
 
 ## 2022.Q4
