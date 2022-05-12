@@ -5,10 +5,9 @@
 The basic functions of Dante protocol stack are almost completed and are under testing and optimization. Some demos and early-stage SDK are as below:
 * Multi-chain communication and smart contract invocation [Demo](https://github.com/dantenetwork/cross-chain-demo/tree/demo-video ) based on Dante protocol stack(support Avalanche, Near, and some other EVM chains).
 * An early stage smart contract [SDK](https://github.com/dantenetwork/solidity-contract-template/tree/develop ) in solidity version.
-* A [demo](https://github.com/dantenetwork/Routers-Evaluation-Demo ) for routers evaluation deployed on Near testnet.
-* A SWAP  [demo](https://github.com/dantenetwork/Demo-Swap/tree/dev ) deployed on rinkeby and BNB(it’s under optimizing) based on Dante protocol stack.
-* An early stage [usecase](https://github.com/dantenetwork/KingHonorNFT/tree/demo-video ) for multi-chain(opensea on rinkeby and platon) NFTs based on Dante protocol stack.
-* A multi-chain(between Flow and opensea on rinkeby) NFT [demo](https://github.com/dantenetwork/cadence-contracts/tree/demo-video ) based on Dante protocol stack.
+* A [demo](https://github.com/dantenetwork/Routers-Evaluation-Demo ) for routers evaluation.
+* A SWAP  [demo](https://github.com/dantenetwork/Demo-Swap/tree/dev )(it’s under optimizing) based on Dante protocol stack.
+* Omnichain NFT [usecase](https://github.com/dantenetwork/KingHonorNFT/tree/demo-video ) and [demo](https://github.com/dantenetwork/cadence-contracts/tree/demo-video ).
 
 Some pre-research:
 * Minimum viable product of [Storage rollups](https://github.com/dantenetwork/hackathon ).
@@ -22,8 +21,8 @@ Some pre-research:
 * Complete the development and testing of off-chain routers.
 #### Ecosystem fit:
 * Public chains:  Near, Avalanche, BNB.
-#### Demos:
-* An NFT Demo, which is deployed on Flow/Near and can be shown and visited by Opensee(Rinkeby).
+#### Popular Application fit:
+* An Omnichain NFT application demo, which is deployed on Avalanche, Near, Flow, and can be shown and visited by Opensee(Rinkeby).
 #### SDK for multi-chain DApp development:
 * A basic SC(smart contract) SDK for developers to try some basic functions of the protocol stack with which developers can build multi-chain DApps.
 
@@ -36,7 +35,7 @@ Some pre-research:
 * Routers scheduling algorithm on-chain.
 #### Ecosystem fit:
 * Public chains:  Add Polkadot.
-#### Demos for popular multi-chain DApps:
+#### Popular Application fit:
 * A SWAP Demo, with which users can exchange Assets(FT/NFT) on Avalanche with some other chains.
 #### SDK for multi-chain DApp development on Near:
 * SC SDK(support Avalanche, Polkadot, Near, Flow, and some other EVM chains) helps developers build Omnichain-contracts more conveniently. Contracts built with the SDK can communicate and cooperate with contracts deployed on several different chains.
