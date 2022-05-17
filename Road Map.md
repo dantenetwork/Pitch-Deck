@@ -7,7 +7,7 @@ The basic functions of Dante protocol stack are almost completed and are under t
 * An early stage smart contract [SDK](https://github.com/dantenetwork/solidity-contract-template/tree/develop ) in solidity version.
 * A [demo](https://github.com/dantenetwork/Routers-Evaluation-Demo ) for routers evaluation.
 * A SWAP  [demo](https://github.com/dantenetwork/Demo-Swap/tree/dev )(it’s under optimizing) based on Dante protocol stack.
-* Omnichain NFT [usecase](https://github.com/dantenetwork/KingHonorNFT/tree/demo-video ) and [demo(Based on Flow)](https://github.com/dantenetwork/cadence-contracts/tree/demo-video ).
+* Omnichain NFT [usecase](https://github.com/dantenetwork/KingHonorNFT/tree/demo-video ) and [demo](https://github.com/dantenetwork/cadence-contracts/tree/demo-video )(Based on Flow).
 
 Some pre-research:
 * Minimum viable product of [Storage rollups](https://github.com/dantenetwork/hackathon ).
