@@ -23,6 +23,7 @@ Some pre-research:
 * Complete the development and testing of off-chain routers.
 #### Ecosystem fit:
 * Public chains:  Near, Avalanche, BNB.
+* Development: Polkadot, Flow.
 #### Popular Application fit:
 * An Omnichain NFT application demo, which is deployed on Avalanche, Near, Flow, and can be shown and visited by Opensee(Rinkeby).
 #### SDK:
@@ -38,7 +39,7 @@ Some pre-research:
 * Advanced items of SQoS, including challenges confirm, exception rollback, Send/receive isolation, etc.
 * Routers scheduling algorithm on-chain.
 #### Ecosystem fit:
-* Public chains:  Add Polkadot.
+* Public chains: Polkadot, Flow.
 #### Popular Application fit:
 * A SWAP Demo, with which users can exchange Assets(FT/NFT) on Avalanche with some other chains.
 #### SDK:
@@ -55,7 +56,7 @@ Some pre-research:
 * User-defined routers with special functions: verifiable off-chain storage service for multi-chains;
 * Special SQoS item relates to privacy transaction(analogous to SSL/TLS in internet protocol) on multi-chains;
 #### Ecosystem fit:
-* Add some special public chains, for instance, Flow(the resource-oriented public chain).
+* Add some special public chains.
 #### Popular Application fit:
 * Omnichain privacy transaction; 
 #### SDK:
