@@ -22,7 +22,7 @@ Some pre-research:
 * Complete the development and testing of protocols of the `Service Presentation Layer`, including message, contracts invocation, and service visiting protocols.
 * Complete the development and testing of off-chain routers.
 #### Ecosystem fit:
-* Public chains:  Near, Avalanche, BNB.
+* Public chains:  Near, Avalanche, BNB, Ethereum.
 * Development: Polkadot, Flow.
 #### Popular Application fit:
 * An Omnichain NFT application demo, which is deployed on Avalanche, Near, Flow, and can be shown and visited by Opensee(Rinkeby).
